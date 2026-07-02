@@ -26,6 +26,9 @@ A structured collection of Q&As covering core Java, Spring ecosystem, messaging,
 | 16 | [Basic Kubernetes](16.%20Kubernetes%20Interview.md) | Control Plane/Data Plane, Pods/ReplicaSets/Deployments, Services, StatefulSets, Probes, Storage (PV/PVC/StorageClass) |
 | 17 | [Advanced Kubernetes](17.%20Kubernetes%20Advanced%20Interview.md) | RBAC, Autoscaling (HPA/VPA/KEDA), Network Policy, Operators, Service Mesh, GitOps, Admission Webhooks, Zero-Downtime Deployments |
 | 18 | [Helm](18.%20Helm%20Interview.md) | Chart Structure, Templating, Lifecycle Hooks, Repositories, Values, Subcharts, Testing, Debugging |
+| 19 | [Basic Shell Script](19.%20Basic%20Shell%20Script.md) | Variables, Control Flow, Functions, I/O, Scripting Patterns |
+| 20 | [Twelve-Factor App](20.%20Twelve-Factor-App.md) | 12-Factor Methodology, Cloud-Native Best Practices, SaaS Patterns |
+| 21 | [IBM Integration Products](21.%20IBM-Integration-Products.md) | IBM MQ, Event Streams, API Connect, ACE, DataPower, Sterling B2B, Aspera, CP4I |
 | — | [Java Versions](Java-Versions.md) | Key features per Java release (Java 8 → Java 21+) |
 
 ---
