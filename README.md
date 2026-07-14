@@ -29,6 +29,9 @@ A structured collection of Q&As covering core Java, Spring ecosystem, messaging,
 | 19 | [Basic Shell Script](19.%20Basic%20Shell%20Script.md) | Variables, Control Flow, Functions, I/O, Scripting Patterns |
 | 20 | [Twelve-Factor App](20.%20Twelve-Factor-App.md) | 12-Factor Methodology, Cloud-Native Best Practices, SaaS Patterns |
 | 21 | [IBM Integration Products](21.%20IBM-Integration-Products.md) | IBM MQ, Event Streams, API Connect, ACE, DataPower, Sterling B2B, Aspera, CP4I |
+| 23 | [Oracle Base Database Services](23.%20Oracle-Base-Database-Services.md) | OCI BaseDB Architecture, Provisioning, Lifecycle, Backup and Recovery, Data Guard, Security, Migration, Monitoring |
+| 24 | [OCI Developer Professional](24.%20Oracle-Cloud-Infrastructure-Developer.md) | Cloud-Native Design, Containers, OCIR, OKE, Functions, API Gateway, Streaming, Queue, DevOps, Observability, Security |
+| 25 | [OCI Architect Associate](25.%20Oracle-Cloud-Infrastructure-Architect-Associate.md) | OCI Core Architecture, IAM, Networking, Compute, Storage, Databases, HA/DR, Security, Observability, Cost Governance |
 | — | [Java Versions](Java-Versions.md) | Key features per Java release (Java 8 → Java 21+) |
 
 ---
