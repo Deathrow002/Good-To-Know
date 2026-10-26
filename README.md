@@ -17,21 +17,25 @@ A structured collection of Q&As covering core Java, Spring ecosystem, messaging,
 | 7 | [Rabbit MQ](7.%20Rabbit-MQ.md) | Exchanges, Queues, Bindings, Routing, Dead Letter, Spring AMQP |
 | 8 | [Apache Kafka](8.%20Apache-Kafka.md) | Producers, Consumers, Topics, Partitions, Consumer Groups, Streams, Error Handling |
 | 9 | [Active MQ](9.%20Active-MQ.md) | Brokers, Destinations, Message Selectors, Spring JMS, Persistence |
-| 10 | [SQL Basic](10.%20SQL-Basic.md) | DDL/DML/DCL/TCL, Joins, Indexes, Aggregates, Subqueries, Window Functions, Normalization, Transactions, Views, Constraints |
-| 11 | [SQL Advanced](11.%20SQL-ADVANCE.md) | CTEs, Recursive Queries, Execution Plans, Partitioning, Materialized Views, Locks, Isolation Levels, Sharding, Anti-Patterns |
-| 12 | [Linux/Unix Basic](12.%20Linux-Unix.md) | OS Differences, Basic Commands, File Viewing/Permissions, Redirection & Piping |
-| 13 | [Linux/Unix Advanced](13.%20Linux-Unix-Advanced.md) | Processes/Threads, Boot Process, Zombies, OOM Killer, Inodes, Links, TIME_WAIT, Capabilities, SELinux, epoll |
-| 14 | [Basic Docker](14.%20basic-docker.md) | Containers vs. VMs, Images, Dockerfile, Architecture, Volumes, COPY vs ADD, CLI |
-| 15 | [Advanced Docker](15.%20advanced-docker.md) | Multi-stage Builds, BuildKit, Network Drivers, Rootless Mode, Init systems/tini, Storage Drivers/CoW, cgroups/namespaces, Resource Pruning |
-| 16 | [Basic Kubernetes](16.%20Kubernetes%20Interview.md) | Control Plane/Data Plane, Pods/ReplicaSets/Deployments, Services, StatefulSets, Probes, Storage (PV/PVC/StorageClass) |
-| 17 | [Advanced Kubernetes](17.%20Kubernetes%20Advanced%20Interview.md) | RBAC, Autoscaling (HPA/VPA/KEDA), Network Policy, Operators, Service Mesh, GitOps, Admission Webhooks, Zero-Downtime Deployments |
-| 18 | [Helm](18.%20Helm%20Interview.md) | Chart Structure, Templating, Lifecycle Hooks, Repositories, Values, Subcharts, Testing, Debugging |
-| 19 | [Basic Shell Script](19.%20Basic%20Shell%20Script.md) | Variables, Control Flow, Functions, I/O, Scripting Patterns |
-| 20 | [Twelve-Factor App](20.%20Twelve-Factor-App.md) | 12-Factor Methodology, Cloud-Native Best Practices, SaaS Patterns |
-| 21 | [IBM Integration Products](21.%20IBM-Integration-Products.md) | IBM MQ, Event Streams, API Connect, ACE, DataPower, Sterling B2B, Aspera, CP4I |
-| 23 | [Oracle Base Database Services](23.%20Oracle-Base-Database-Services.md) | OCI BaseDB Architecture, Provisioning, Lifecycle, Backup and Recovery, Data Guard, Security, Migration, Monitoring |
-| 24 | [OCI Developer Professional](24.%20Oracle-Cloud-Infrastructure-Developer.md) | Cloud-Native Design, Containers, OCIR, OKE, Functions, API Gateway, Streaming, Queue, DevOps, Observability, Security |
-| 25 | [OCI Architect Associate](25.%20Oracle-Cloud-Infrastructure-Architect-Associate.md) | OCI Core Architecture, IAM, Networking, Compute, Storage, Databases, HA/DR, Security, Observability, Cost Governance |
+| 10 | [Basic Angular](10.%20Basic-Angular.md) | Components, Modules/Standalone, Data Binding, Directives, Pipes, Services/DI, Routing, Forms, RxJS, Signals, Change Detection |
+| 11 | [Advanced Angular](11.%20Advanced-Angular.md) | Zone.js/Zoneless, OnPush, Signals, Hierarchical DI, RxJS Operators, @defer, SSR/Hydration, NgRx, Testing, Security, Micro Frontends, Ivy |
+| 12 | [SQL Basic](12.%20SQL-Basic.md) | DDL/DML/DCL/TCL, Joins, Indexes, Aggregates, Subqueries, Window Functions, Normalization, Transactions, Views, Constraints |
+| 13 | [SQL Advanced](13.%20SQL-ADVANCE.md) | CTEs, Recursive Queries, Execution Plans, Partitioning, Materialized Views, Locks, Isolation Levels, Sharding, Anti-Patterns |
+| 14 | [Linux/Unix Basic](14.%20Linux-Unix.md) | OS Differences, Basic Commands, File Viewing/Permissions, Redirection & Piping |
+| 15 | [Linux/Unix Advanced](15.%20Linux-Unix-Advanced.md) | Processes/Threads, Boot Process, Zombies, OOM Killer, Inodes, Links, TIME_WAIT, Capabilities, SELinux, epoll |
+| 16 | [Basic Docker](16.%20Basic%20Docker.md) | Containers vs. VMs, Images, Dockerfile, Architecture, Volumes, COPY vs ADD, CLI |
+| 17 | [Advanced Docker](17.%20Advanced%20Docker.md) | Multi-stage Builds, BuildKit, Network Drivers, Rootless Mode, Init systems/tini, Storage Drivers/CoW, cgroups/namespaces, Resource Pruning |
+| 18 | [Basic Kubernetes](18.%20Basic%20Kubernetes.md) | Control Plane/Data Plane, Pods/ReplicaSets/Deployments, Services, StatefulSets, Probes, Storage (PV/PVC/StorageClass) |
+| 19 | [Advanced Kubernetes](19.%20Advanced%20Kubernetes.md) | RBAC, Autoscaling (HPA/VPA/KEDA), Network Policy, Operators, Service Mesh, GitOps, Admission Webhooks, Zero-Downtime Deployments |
+| 20 | [Helm](20.%20Helm%20Interview.md) | Chart Structure, Templating, Lifecycle Hooks, Repositories, Values, Subcharts, Testing, Debugging |
+| 21 | [Basic Shell Script](21.%20Basic%20Shell%20Script.md) | Variables, Control Flow, Functions, I/O, Scripting Patterns |
+| 22 | [Twelve-Factor App](22.%20Twelve-Factor-App.md) | 12-Factor Methodology, Cloud-Native Best Practices, SaaS Patterns |
+| 23 | [IBM Integration Products](23.%20IBM-Integration-Products.md) | IBM MQ, Event Streams, API Connect, ACE, DataPower, Sterling B2B, Aspera, CP4I |
+| 24 | [Messaging Systems Comparison](24.%20Messaging-Systems-Comparison.md) | RabbitMQ vs Kafka vs ActiveMQ, Decision Guide |
+| 25 | [Oracle Base Database Services](25.%20Oracle-Base-Database-Services.md) | OCI BaseDB Architecture, Provisioning, Lifecycle, Backup and Recovery, Data Guard, Security, Migration, Monitoring |
+| 26 | [OCI Developer Professional](26.%20Oracle-Cloud-Infrastructure-Developer.md) | Cloud-Native Design, Containers, OCIR, OKE, Functions, API Gateway, Streaming, Queue, DevOps, Observability, Security |
+| 27 | [OCI Architect Associate](27.%20Oracle-Cloud-Infrastructure-Architect-Associate.md) | OCI Core Architecture, IAM, Networking, Compute, Storage, Databases, HA/DR, Security, Observability, Cost Governance |
+| 28 | [OCI All Products](28.%20Oracle-Cloud-Infrastructure-All-Products.md) | Full catalog of OCI services by category |
 | — | [Java Versions](Java-Versions.md) | Key features per Java release (Java 8 → Java 21+) |
 
 ---
